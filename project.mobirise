@@ -1000,24 +1000,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote> <b>Make your own website in a few clicks!</b>&nbsp;</blockquote><blockquote>Compare and easysearch We have found a great way to raise money for [INSERT CAUSE NAME] for free. Simply swap your usual search engine (e.g. Google) to easysearch.\n</blockquote><blockquote>Every time you search the web using [INSERT EASYSEARCH LINK HERE] instead of your usual search engine, you’ll raise half a penny for [INSERT CAUSE NAME]. Search just 15 times a day and you can raise around £25 a year.\n</blockquote><blockquote>Why not give it a try? [INSERT CAUSE NAME] will be really grateful for your donations.\n</blockquote><blockquote>Thank you for your support.\n</blockquote><blockquote>{INSERT YOUR NAME OR YOUR CAUSE NAME HERE}</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qyMgUhZNgy",
-          "_anchor": "content2-g",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         }
       ]
     }
