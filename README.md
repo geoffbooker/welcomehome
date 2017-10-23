@@ -1,2 +1,2 @@
 # welcomehome
-Dedicated to my two rescue cats
+Dedicated to our two rescue cats
